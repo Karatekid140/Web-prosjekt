@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: short-link-maker\n"
+"POT-Creation-Date: 2009-10-26 15:48+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Христо Панджаров <hristo.p@siteground.com>\n"
+"Language-Team: SiteGround <hristo.p@siteground.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+
+# Description
+msgid "This is a plugin creating a shorter URL of post, page and media permalink."
+msgstr "Това е разширение което създава кратки URL адреси на публикация, страница или мултимедийна връзка"
+
+#: ../short-link-maker.php:176
+msgid "Tweet this"
+msgstr "Споделете в Туитър"
+
+#: ../short-link-maker.php:230
+#: ../short-link-maker.php:231
+#: ../short-link-maker.php:260
+msgid "Short link"
+msgstr "Кратка връзка"
+
+#: ../short-link-maker.php:251
+msgid "Please publish to get Short links."
+msgstr "Моля, публикувайте за да вземете кратка връзка"
+
